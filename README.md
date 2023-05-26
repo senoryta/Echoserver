@@ -69,9 +69,10 @@ print(f"Received {data!r}")
 ## OUTPUT
 
 fifile:///home/scoft/Pictures/Screenshots/Screenshot%20from%202023-05-26%2006-09-05.png![image](https://github.com/senoryta/Echoserver/assets/123490411/7dafd32f-02ef-492f-a73e-b7d897fceec7)
-le:///home/scoft/Pictures/Screenshots/Screenshot%20from%202023-05-26%2006-09-21.png
 
 
+
+file:///home/scoft/Pictures/Screenshots/Screenshot%20from%202023-05-26%2006-09-21.png![image](https://github.com/senoryta/Echoserver/assets/123490411/56ff5acc-bf9a-43a1-83c0-801f59120c1a)
 
 
 ## RESULT
